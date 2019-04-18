@@ -1,0 +1,12 @@
+*~
+.*~
+\#*\#
+.\#*\#
+
+.DS_Store
+.project
+.settings
+sftp-config.json
+
+*.o
+*.so
